@@ -10,4 +10,4 @@ end
 
 author = Author.new
 post.author = author
-post.author.name = "Uncle Bob"
+# post.author.name = "Uncle Bob"
