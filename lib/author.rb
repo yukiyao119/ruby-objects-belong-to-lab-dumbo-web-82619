@@ -7,3 +7,5 @@ class Author
   end 
 
 end
+
+author = Author.new
