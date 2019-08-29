@@ -7,7 +7,9 @@ class Post
   end 
   
   
+  
 end 
 
 # author = Author.new
 # post.author = author
+# author.name = "Uncle Bob"
