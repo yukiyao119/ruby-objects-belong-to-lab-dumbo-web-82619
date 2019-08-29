@@ -6,6 +6,7 @@ class Artist
     @name = "Beyonce"
   end
   
-  # beyonce = Artist.new("Beyonce")
-  # 
 end
+
+  
+  # beyonce = Artist.new("Beyonce")
