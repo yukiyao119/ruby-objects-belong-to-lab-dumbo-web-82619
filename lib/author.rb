@@ -1,6 +1,6 @@
 class Author 
   
-  attr_accessor :name, :post
+  attr_accessor :name
   
   def initialize
     @name = "Uncle Bob" 
@@ -8,4 +8,4 @@ class Author
 
 end
 
-author = Author.new
+# author = Author.new
