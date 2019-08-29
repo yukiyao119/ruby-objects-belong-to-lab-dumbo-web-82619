@@ -9,5 +9,5 @@ class Post
 end 
 
 author = Author.new
-# post.author = author
-# author.name = "Uncle Bob"
+post.author = author
+post.author.name = "Uncle Bob"
