@@ -6,8 +6,6 @@ class Post
     @title = title
   end 
   
-  
-  
 end 
 
 # author = Author.new
