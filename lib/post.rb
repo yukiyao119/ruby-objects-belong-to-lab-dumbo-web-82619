@@ -8,7 +8,7 @@ class Post
   
 end 
 
-post = Post.new()
+post = Post.new("title")
 author = Author.new
 post.author = author
 # post.author.name = "Uncle Bob"
